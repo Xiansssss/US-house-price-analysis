@@ -1,0 +1,510 @@
+Matching Rows for Zipcode 6793:
+File 1:
+      RegionID  SizeRank  RegionName RegionType StateName State        City           Metro         CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31  2023-01-31  2023-02-28  2023-03-31  2023-04-30  2023-05-31  2023-06-30  2023-07-31
+6852     60446     22177        6793        zip        CT    CT  Washington  Torrington, CT  Litchfield County         NaN  ...         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN    0.334019
+
+[1 rows x 112 columns]
+File 2:
+      RegionID  SizeRank  RegionName RegionType StateName State        City           Metro         CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31  2023-01-31  2023-02-28  2023-03-31  2023-04-30  2023-05-31  2023-06-30  2023-07-31
+6867     60446     22177        6793        zip        CT    CT  Washington  Torrington, CT  Litchfield County         NaN  ...         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN     30900.0
+
+[1 rows x 112 columns]
+File 3:
+       RegionID  SizeRank  RegionName RegionType StateName State        City           Metro         CountyName     2000-01-31  ...    2022-10-31    2022-11-30    2022-12-31    2023-01-31    2023-02-28    2023-03-31    2023-04-30    2023-05-31    2023-06-30    2023-07-31
+21381     60446     22177        6793        zip        CT    CT  Washington  Torrington, CT  Litchfield County  361369.869799  ...  1.065642e+06  1.063490e+06  1.064093e+06  1.061559e+06  1.060984e+06  1.065047e+06  1.074864e+06  1.089617e+06  1.100682e+06  1.110115e+06
+
+[1 rows x 292 columns]
+========================================
+Matching Rows for Zipcode 48205:
+File 1:
+      RegionID  SizeRank  RegionName RegionType StateName State     City                        Metro    CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31  2023-01-31  2023-02-28  2023-03-31  2023-04-30  2023-05-31  2023-06-30  2023-07-31
+2923     79060      3194       48205        zip        MI    MI  Detroit  Detroit-Warren-Dearborn, MI  Wayne County         NaN  ...    0.329779    0.329563    0.342486     0.32184    0.308699    0.306158    0.315545    0.324295    0.312199    0.300291
+
+[1 rows x 112 columns]
+File 2:
+      RegionID  SizeRank  RegionName RegionType StateName State     City                        Metro    CountyName  2015-01-31  ...  2022-10-31   2022-11-30   2022-12-31   2023-01-31  2023-02-28  2023-03-31   2023-04-30   2023-05-31   2023-06-30   2023-07-31
+2924     79060      3194       48205        zip        MI    MI  Detroit  Detroit-Warren-Dearborn, MI  Wayne County         NaN  ...  1206.21965  1182.314051  1222.726822  1175.400421  1155.18922  1169.49128  1207.509168  1243.338595  1206.382605  1179.603175
+
+[1 rows x 112 columns]
+File 3:
+      RegionID  SizeRank  RegionName RegionType StateName State     City                        Metro    CountyName   2000-01-31  ...  2022-10-31    2022-11-30    2022-12-31    2023-01-31    2023-02-28    2023-03-31    2023-04-30    2023-05-31    2023-06-30    2023-07-31
+3156     79060      3194       48205        zip        MI    MI  Detroit  Detroit-Warren-Dearborn, MI  Wayne County  7469.869988  ...  43891.9031  43050.240403  42841.851864  43825.477328  44905.524899  45838.720301  45920.902769  46007.674001  46369.744438  47138.455941
+
+[1 rows x 292 columns]
+========================================
+Matching Rows for Zipcode 48234:
+File 1:
+      RegionID  SizeRank  RegionName RegionType StateName State     City                        Metro    CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31  2023-01-31  2023-02-28  2023-03-31  2023-04-30  2023-05-31  2023-06-30  2023-07-31
+2737     79089      2982       48234        zip        MI    MI  Detroit  Detroit-Warren-Dearborn, MI  Wayne County         NaN  ...    0.294331    0.301336    0.308615    0.299759    0.295113    0.293746      0.2958      0.2878    0.293535    0.291277
+
+[1 rows x 112 columns]
+File 2:
+      RegionID  SizeRank  RegionName RegionType StateName State     City                        Metro    CountyName  2015-01-31  ...   2022-10-31   2022-11-30   2022-12-31   2023-01-31   2023-02-28  2023-03-31   2023-04-30   2023-05-31   2023-06-30   2023-07-31
+2738     79089      2982       48234        zip        MI    MI  Detroit  Detroit-Warren-Dearborn, MI  Wayne County         NaN  ...  1071.386542  1083.077349  1107.422335  1102.859984  1118.519519  1148.20926  1169.930178  1147.813634  1181.016673  1184.516667
+
+[1 rows x 112 columns]
+File 3:
+      RegionID  SizeRank  RegionName RegionType StateName State     City                        Metro    CountyName  2000-01-31  ...    2022-10-31    2022-11-30    2022-12-31    2023-01-31    2023-02-28    2023-03-31    2023-04-30    2023-05-31    2023-06-30    2023-07-31
+2947     79089      2982       48234        zip        MI    MI  Detroit  Detroit-Warren-Dearborn, MI  Wayne County         NaN  ...  43680.906159  43130.997881  43060.301043  44149.871645  45481.618084  46906.163724  47461.620889  47858.832353  48281.151646  48799.596901
+
+[1 rows x 292 columns]
+========================================
+Matching Rows for Zipcode 43605:
+File 1:
+      RegionID  SizeRank  RegionName RegionType StateName State    City       Metro    CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31  2023-01-31  2023-02-28  2023-03-31  2023-04-30  2023-05-31  2023-06-30  2023-07-31
+4191     76764      4794       43605        zip        OH    OH  Toledo  Toledo, OH  Lucas County         NaN  ...    0.314263    0.302545    0.286842    0.293092    0.281686    0.288192    0.285419      0.2948    0.291892    0.296862
+
+[1 rows x 112 columns]
+File 2:
+      RegionID  SizeRank  RegionName RegionType StateName State    City       Metro    CountyName  2015-01-31  ...   2022-10-31   2022-11-30   2022-12-31   2023-01-31  2023-02-28   2023-03-31   2023-04-30   2023-05-31   2023-06-30   2023-07-31
+4192     76764      4794       43605        zip        OH    OH  Toledo  Toledo, OH  Lucas County         NaN  ...  1217.215521  1167.955088  1110.956649  1139.202422  1098.38451  1120.646785  1112.987735  1158.623038  1158.807435  1183.166667
+
+[1 rows x 112 columns]
+File 3:
+      RegionID  SizeRank  RegionName RegionType StateName State    City       Metro    CountyName    2000-01-31  ...   2022-10-31    2022-11-30    2022-12-31   2023-01-31   2023-02-28    2023-03-31    2023-04-30    2023-05-31    2023-06-30    2023-07-31
+4738     76764      4794       43605        zip        OH    OH  Toledo  Toledo, OH  Lucas County  23070.561656  ...  46478.84667  46325.202029  46476.725284  46642.08505  46791.84501  46662.555689  46793.830157  47162.454384  47639.795105  47826.936659
+
+[1 rows x 292 columns]
+========================================
+Matching Rows for Zipcode 21223:
+File 1:
+      RegionID  SizeRank  RegionName RegionType StateName State       City                          Metro      CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31  2023-01-31  2023-02-28  2023-03-31  2023-04-30  2023-05-31  2023-06-30  2023-07-31
+4899     66833      5823       21223        zip        MD    MD  Baltimore  Baltimore-Columbia-Towson, MD  Baltimore City         NaN  ...    0.304168    0.304738    0.307076    0.307593     0.30523    0.305247    0.292428    0.291277    0.290196    0.298284
+
+[1 rows x 112 columns]
+File 2:
+      RegionID  SizeRank  RegionName RegionType StateName State       City                          Metro      CountyName  2015-01-31  ...   2022-10-31   2022-11-30   2022-12-31   2023-01-31   2023-02-28   2023-03-31   2023-04-30   2023-05-31   2023-06-30  2023-07-31
+4901     66833      5823       21223        zip        MD    MD  Baltimore  Baltimore-Columbia-Towson, MD  Baltimore City         NaN  ...  1373.963831  1367.020214  1380.014053  1402.713907  1424.041009  1453.756454  1404.881502  1396.883135  1380.532772      1405.0
+
+[1 rows x 112 columns]
+File 3:
+      RegionID  SizeRank  RegionName RegionType StateName State       City                          Metro      CountyName    2000-01-31  ...    2022-10-31   2022-11-30   2022-12-31    2023-01-31    2023-02-28    2023-03-31    2023-04-30    2023-05-31    2023-06-30    2023-07-31
+5757     66833      5823       21223        zip        MD    MD  Baltimore  Baltimore-Columbia-Towson, MD  Baltimore City  15168.222344  ...  54205.476193  53830.72047  53928.54627  54723.516201  55985.619787  57150.760783  57650.342808  57548.742663  57086.972826  56523.262122
+
+[1 rows x 292 columns]
+========================================
+Matching Rows for Zipcode 21217:
+File 1:
+      RegionID  SizeRank  RegionName RegionType StateName State       City                          Metro      CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31  2023-01-31  2023-02-28  2023-03-31  2023-04-30  2023-05-31  2023-06-30  2023-07-31
+2938     66827      3211       21217        zip        MD    MD  Baltimore  Baltimore-Columbia-Towson, MD  Baltimore City         NaN  ...    0.212708    0.217282    0.217781    0.216287    0.206979     0.20009     0.19856    0.198015    0.200836    0.206633
+
+[1 rows x 112 columns]
+File 2:
+      RegionID  SizeRank  RegionName RegionType StateName State       City                          Metro      CountyName  2015-01-31  ...   2022-10-31  2022-11-30   2022-12-31  2023-01-31   2023-02-28   2023-03-31   2023-04-30   2023-05-31   2023-06-30   2023-07-31
+2939     66827      3211       21217        zip        MD    MD  Baltimore  Baltimore-Columbia-Towson, MD  Baltimore City         NaN  ...  1371.044622  1395.31866  1403.386147  1425.22793  1400.011321  1383.909644  1389.007423  1397.013062  1419.246965  1449.787356
+
+[1 rows x 112 columns]
+File 3:
+      RegionID  SizeRank  RegionName RegionType StateName State       City                          Metro      CountyName    2000-01-31  ...    2022-10-31    2022-11-30    2022-12-31    2023-01-31    2023-02-28    2023-03-31    2023-04-30    2023-05-31    2023-06-30    2023-07-31
+3173     66827      3211       21217        zip        MD    MD  Baltimore  Baltimore-Columbia-Towson, MD  Baltimore City  20046.532279  ...  77347.955814  77060.318613  77328.159476  79074.296058  81168.375048  82997.161515  83944.798337  84661.084998  84800.495865  84195.030721
+
+[1 rows x 292 columns]
+========================================
+Matching Rows for Zipcode 19132:
+File 1:
+      RegionID  SizeRank  RegionName RegionType StateName State          City                                        Metro           CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31  2023-01-31  2023-02-28  2023-03-31  2023-04-30  2023-05-31  2023-06-30  2023-07-31
+2595     65799      2819       19132        zip        PA    PA  Philadelphia  Philadelphia-Camden-Wilmington, PA-NJ-DE-MD  Philadelphia County         NaN  ...    0.224374     0.22889    0.228832    0.231668    0.223431    0.222434    0.224744    0.222969     0.21693    0.216422
+
+[1 rows x 112 columns]
+File 2:
+      RegionID  SizeRank  RegionName RegionType StateName State          City                                        Metro           CountyName  2015-01-31  ...   2022-10-31   2022-11-30   2022-12-31   2023-01-31   2023-02-28  2023-03-31   2023-04-30   2023-05-31   2023-06-30   2023-07-31
+2596     65799      2819       19132        zip        PA    PA  Philadelphia  Philadelphia-Camden-Wilmington, PA-NJ-DE-MD  Philadelphia County         NaN  ...  1272.751678  1316.611466  1326.440316  1347.239668  1302.849854  1297.46476  1307.167776  1293.333186  1252.728585  1239.897817
+
+[1 rows x 112 columns]
+File 3:
+      RegionID  SizeRank  RegionName RegionType StateName State          City                                        Metro           CountyName   2000-01-31  ...   2022-10-31    2022-11-30    2022-12-31    2023-01-31    2023-02-28    2023-03-31    2023-04-30    2023-05-31   2023-06-30    2023-07-31
+2786     65799      2819       19132        zip        PA    PA  Philadelphia  Philadelphia-Camden-Wilmington, PA-NJ-DE-MD  Philadelphia County  9087.539434  ...  68069.42397  69025.902038  69558.893161  69784.679046  69973.197774  69996.310491  69795.103834  69605.938293  69297.52862  68749.035156
+
+[1 rows x 292 columns]
+========================================
+Matching Rows for Zipcode 39209:
+File 1:
+      RegionID  SizeRank  RegionName RegionType StateName State     City        Metro    CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31  2023-01-31  2023-02-28  2023-03-31  2023-04-30  2023-05-31  2023-06-30  2023-07-31
+3436     75213      3812       39209        zip        MS    MS  Jackson  Jackson, MS  Hinds County         NaN  ...         NaN         NaN         NaN         NaN         NaN         NaN     0.28729    0.288905    0.291664    0.303189
+
+[1 rows x 112 columns]
+File 2:
+      RegionID  SizeRank  RegionName RegionType StateName State     City        Metro    CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31  2023-01-31  2023-02-28  2023-03-31  2023-04-30  2023-05-31  2023-06-30  2023-07-31
+3437     75213      3812       39209        zip        MS    MS  Jackson  Jackson, MS  Hinds County         NaN  ...         NaN         NaN         NaN         NaN         NaN         NaN   860.68135  872.375734  876.595177  908.333333
+
+[1 rows x 112 columns]
+File 3:
+      RegionID  SizeRank  RegionName RegionType StateName State     City        Metro    CountyName  2000-01-31  ...    2022-10-31    2022-11-30    2022-12-31    2023-01-31    2023-02-28    2023-03-31    2023-04-30    2023-05-31    2023-06-30    2023-07-31
+3769     75213      3812       39209        zip        MS    MS  Jackson  Jackson, MS  Hinds County         NaN  ...  37417.966082  36923.640717  36045.253032  35720.472462  35615.149057  35851.204913  35950.303189  36235.147994  36065.975057  35951.169369
+
+[1 rows x 292 columns]
+========================================
+Matching Rows for Zipcode 64120:
+File 1:
+      RegionID  SizeRank  RegionName RegionType StateName State         City               Metro      CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31  2023-01-31  2023-02-28  2023-03-31  2023-04-30  2023-05-31  2023-06-30  2023-07-31
+6853     86358     22211       64120        zip        MO    MO  Kansas City  Kansas City, MO-KS  Jackson County         NaN  ...         NaN         NaN         NaN         NaN         NaN    0.268929    0.273127     0.27679    0.275742    0.267109
+
+[1 rows x 112 columns]
+File 2:
+      RegionID  SizeRank  RegionName RegionType StateName State         City               Metro      CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31  2023-01-31  2023-02-28   2023-03-31   2023-04-30   2023-05-31   2023-06-30   2023-07-31
+6868     86358     22211       64120        zip        MO    MO  Kansas City  Kansas City, MO-KS  Jackson County         NaN  ...         NaN         NaN         NaN         NaN         NaN  1476.772171  1484.868668  1503.415087  1520.252358  1507.361111
+
+[1 rows x 112 columns]
+File 3:
+       RegionID  SizeRank  RegionName RegionType StateName State         City               Metro      CountyName  2000-01-31  ...   2022-10-31    2022-11-30    2022-12-31    2023-01-31    2023-02-28    2023-03-31    2023-04-30    2023-05-31    2023-06-30    2023-07-31
+21407     86358     22211       64120        zip        MO    MO  Kansas City  Kansas City, MO-KS  Jackson County         NaN  ...  63615.36362  63881.410452  63962.060573  64841.469647  65451.982951  65895.796574  65238.712779  65179.415479  66159.678532  67718.990084
+
+[1 rows x 292 columns]
+========================================
+Matching Rows for Zipcode 48204:
+File 1:
+      RegionID  SizeRank  RegionName RegionType StateName State     City                        Metro    CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31  2023-01-31  2023-02-28  2023-03-31  2023-04-30  2023-05-31  2023-06-30  2023-07-31
+4786     79059      5648       48204        zip        MI    MI  Detroit  Detroit-Warren-Dearborn, MI  Wayne County         NaN  ...         NaN         NaN         NaN         NaN    0.283417    0.273826    0.266144    0.273834    0.260491    0.248522
+
+[1 rows x 112 columns]
+File 2:
+      RegionID  SizeRank  RegionName RegionType StateName State     City                        Metro    CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31  2023-01-31  2023-02-28   2023-03-31   2023-04-30  2023-05-31   2023-06-30  2023-07-31
+4788     79059      5648       48204        zip        MI    MI  Detroit  Detroit-Warren-Dearborn, MI  Wayne County         NaN  ...         NaN         NaN         NaN         NaN  999.323579  1016.666962  1016.612682  1064.16913  1031.968588     1006.25
+
+[1 rows x 112 columns]
+File 3:
+      RegionID  SizeRank  RegionName RegionType StateName State     City                        Metro    CountyName   2000-01-31  ...    2022-10-31    2022-11-30    2022-12-31    2023-01-31    2023-02-28    2023-03-31    2023-04-30    2023-05-31   2023-06-30    2023-07-31
+5582     79059      5648       48204        zip        MI    MI  Detroit  Detroit-Warren-Dearborn, MI  Wayne County  4201.505053  ...  39026.756987  38623.170974  38718.338187  40192.603318  42311.859979  44553.900195  45837.475545  46634.224049  47539.45559  48587.341834
+
+[1 rows x 292 columns]
+========================================
+Matching Rows for Zipcode 48203:
+File 1:
+      RegionID  SizeRank  RegionName RegionType StateName State     City                        Metro    CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31  2023-01-31  2023-02-28  2023-03-31  2023-04-30  2023-05-31  2023-06-30  2023-07-31
+4747     79058      5589       48203        zip        MI    MI  Detroit  Detroit-Warren-Dearborn, MI  Wayne County         NaN  ...         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN    0.270758     0.26737
+
+[1 rows x 112 columns]
+File 2:
+      RegionID  SizeRank  RegionName RegionType StateName State     City                        Metro    CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31  2023-01-31  2023-02-28  2023-03-31  2023-04-30  2023-05-31   2023-06-30  2023-07-31
+4749     79058      5589       48203        zip        MI    MI  Detroit  Detroit-Warren-Dearborn, MI  Wayne County         NaN  ...         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN  1240.422826      1243.5
+
+[1 rows x 112 columns]
+File 3:
+      RegionID  SizeRank  RegionName RegionType StateName State     City                        Metro    CountyName  2000-01-31  ...    2022-10-31    2022-11-30    2022-12-31    2023-01-31    2023-02-28    2023-03-31    2023-04-30    2023-05-31    2023-06-30    2023-07-31
+5525     79058      5589       48203        zip        MI    MI  Detroit  Detroit-Warren-Dearborn, MI  Wayne County         NaN  ...  45674.997938  45370.091852  45415.564918  47410.703604  49914.687093  52436.374212  53423.562987  54082.698495  54975.539966  55810.219074
+
+[1 rows x 292 columns]
+========================================
+Matching Rows for Zipcode 19133:
+File 1:
+      RegionID  SizeRank  RegionName RegionType StateName State          City                                        Metro           CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31  2023-01-31  2023-02-28  2023-03-31  2023-04-30  2023-05-31  2023-06-30  2023-07-31
+4187     65800      4786       19133        zip        PA    PA  Philadelphia  Philadelphia-Camden-Wilmington, PA-NJ-DE-MD  Philadelphia County         NaN  ...    0.249799    0.257663    0.255819    0.264914    0.264901    0.267281      0.2675    0.259881    0.263024    0.262408
+
+[1 rows x 112 columns]
+File 2:
+      RegionID  SizeRank  RegionName RegionType StateName State          City                                        Metro           CountyName  2015-01-31  ...   2022-10-31   2022-11-30  2022-12-31   2023-01-31   2023-02-28   2023-03-31   2023-04-30   2023-05-31   2023-06-30   2023-07-31
+4188     65800      4786       19133        zip        PA    PA  Philadelphia  Philadelphia-Camden-Wilmington, PA-NJ-DE-MD  Philadelphia County         NaN  ...  1384.472489  1437.188218  1431.95629  1482.037362  1484.864799  1507.711998  1511.285435  1468.304353  1487.726198  1493.994048
+
+[1 rows x 112 columns]
+File 3:
+      RegionID  SizeRank  RegionName RegionType StateName State          City                                        Metro           CountyName   2000-01-31  ...    2022-10-31    2022-11-30   2022-12-31    2023-01-31    2023-02-28    2023-03-31    2023-04-30    2023-05-31    2023-06-30    2023-07-31
+4730     65800      4786       19133        zip        PA    PA  Philadelphia  Philadelphia-Camden-Wilmington, PA-NJ-DE-MD  Philadelphia County  9864.209417  ...  66508.200603  66933.422029  67170.53676  67132.926787  67264.251273  67691.031454  67796.052966  67798.981197  67874.746654  68320.892182
+
+[1 rows x 292 columns]
+========================================
+Matching Rows for Zipcode 44108:
+File 1:
+      RegionID  SizeRank  RegionName RegionType StateName State       City                 Metro       CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31  2023-01-31  2023-02-28  2023-03-31  2023-04-30  2023-05-31  2023-06-30  2023-07-31
+4824     77008      5702       44108        zip        OH    OH  Cleveland  Cleveland-Elyria, OH  Cuyahoga County         NaN  ...         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN    0.258772
+
+[1 rows x 112 columns]
+File 2:
+      RegionID  SizeRank  RegionName RegionType StateName State       City                 Metro       CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31  2023-01-31  2023-02-28  2023-03-31  2023-04-30  2023-05-31  2023-06-30   2023-07-31
+4826     77008      5702       44108        zip        OH    OH  Cleveland  Cleveland-Elyria, OH  Cuyahoga County         NaN  ...         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN  1183.333333
+
+[1 rows x 112 columns]
+File 3:
+      RegionID  SizeRank  RegionName RegionType StateName State       City                 Metro       CountyName  2000-01-31  ...    2022-10-31    2022-11-30    2022-12-31    2023-01-31    2023-02-28    2023-03-31    2023-04-30    2023-05-31   2023-06-30    2023-07-31
+5636     77008      5702       44108        zip        OH    OH  Cleveland  Cleveland-Elyria, OH  Cuyahoga County         NaN  ...  53744.921885  53493.568804  53556.253121  54392.723895  55438.753465  56434.145086  56183.890573  55871.062831  55139.61466  54874.485784
+
+[1 rows x 292 columns]
+========================================
+Matching Rows for Zipcode 48238:
+File 1:
+      RegionID  SizeRank  RegionName RegionType StateName State     City                        Metro    CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31  2023-01-31  2023-02-28  2023-03-31  2023-04-30  2023-05-31  2023-06-30  2023-07-31
+4217     79093      4829       48238        zip        MI    MI  Detroit  Detroit-Warren-Dearborn, MI  Wayne County         NaN  ...    0.241048    0.248687    0.277629     0.28256    0.269298    0.255582    0.249786    0.251398    0.256812    0.256988
+
+[1 rows x 112 columns]
+File 2:
+      RegionID  SizeRank  RegionName RegionType StateName State     City                        Metro    CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31   2023-01-31   2023-02-28   2023-03-31   2023-04-30   2023-05-31   2023-06-30   2023-07-31
+4218     79093      4829       48238        zip        MI    MI  Detroit  Detroit-Warren-Dearborn, MI  Wayne County         NaN  ...  839.091555  863.898237    974.8966  1029.920558  1024.965861  1010.667906  1000.131725  1010.779236  1035.414809  1044.861111
+
+[1 rows x 112 columns]
+File 3:
+      RegionID  SizeRank  RegionName RegionType StateName State     City                        Metro    CountyName   2000-01-31  ...    2022-10-31    2022-11-30    2022-12-31    2023-01-31    2023-02-28    2023-03-31   2023-04-30    2023-05-31    2023-06-30    2023-07-31
+4772     79093      4829       48238        zip        MI    MI  Detroit  Detroit-Warren-Dearborn, MI  Wayne County  6395.287839  ...  41772.223027  41686.044499  42138.072649  43739.622486  45672.810855  47452.538507  48047.51881  48247.546785  48381.563954  48789.532962
+
+[1 rows x 292 columns]
+========================================
+Matching Rows for Zipcode 62206:
+File 1:
+      RegionID  SizeRank  RegionName RegionType StateName State     City             Metro          CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31  2023-01-31  2023-02-28  2023-03-31  2023-04-30  2023-05-31  2023-06-30  2023-07-31
+6200     85335      8799       62206        zip        IL    IL  Cahokia  St. Louis, MO-IL  Saint Clair County         NaN  ...         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN    0.252289
+
+[1 rows x 112 columns]
+File 2:
+      RegionID  SizeRank  RegionName RegionType StateName State     City             Metro          CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31  2023-01-31  2023-02-28  2023-03-31  2023-04-30  2023-05-31  2023-06-30  2023-07-31
+6202     85335      8799       62206        zip        IL    IL  Cahokia  St. Louis, MO-IL  Saint Clair County         NaN  ...         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN       925.0
+
+[1 rows x 112 columns]
+File 3:
+      RegionID  SizeRank  RegionName RegionType StateName State     City             Metro          CountyName  2000-01-31  ...   2022-10-31    2022-11-30    2022-12-31    2023-01-31    2023-02-28  2023-03-31    2023-04-30    2023-05-31    2023-06-30    2023-07-31
+8689     85335      8799       62206        zip        IL    IL  Cahokia  St. Louis, MO-IL  Saint Clair County         NaN  ...  35245.01923  36193.703918  37127.855225  38850.231159  40307.702021  41781.3588  42532.966712  43244.026567  43879.870793  43997.105627
+
+[1 rows x 292 columns]
+========================================
+Matching Rows for Zipcode 61603:
+File 1:
+      RegionID  SizeRank  RegionName RegionType StateName State    City       Metro     CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31  2023-01-31  2023-02-28  2023-03-31  2023-04-30  2023-05-31  2023-06-30  2023-07-31
+5686     85070      7335       61603        zip        IL    IL  Peoria  Peoria, IL  Peoria County         NaN  ...         NaN         NaN         NaN         NaN         NaN         NaN         NaN    0.260272    0.251474    0.238699
+
+[1 rows x 112 columns]
+File 2:
+      RegionID  SizeRank  RegionName RegionType StateName State    City       Metro     CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31  2023-01-31  2023-02-28  2023-03-31  2023-04-30   2023-05-31   2023-06-30   2023-07-31
+5688     85070      7335       61603        zip        IL    IL  Peoria  Peoria, IL  Peoria County         NaN  ...         NaN         NaN         NaN         NaN         NaN         NaN         NaN  1064.667405  1048.447411  1019.444444
+
+[1 rows x 112 columns]
+File 3:
+      RegionID  SizeRank  RegionName RegionType StateName State    City       Metro     CountyName  2000-01-31  ...    2022-10-31    2022-11-30    2022-12-31    2023-01-31    2023-02-28    2023-03-31    2023-04-30    2023-05-31    2023-06-30    2023-07-31
+7248     85070      7335       61603        zip        IL    IL  Peoria  Peoria, IL  Peoria County         NaN  ...  48631.709199  48786.883615  49095.557663  49515.939281  49591.120167  49295.265864  48922.232277  49087.062921  50030.420084  51250.059644
+
+[1 rows x 292 columns]
+========================================
+Matching Rows for Zipcode 63115:
+File 1:
+      RegionID  SizeRank  RegionName RegionType StateName State         City             Metro        CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31  2023-01-31  2023-02-28  2023-03-31  2023-04-30  2023-05-31  2023-06-30  2023-07-31
+5454     85933      6828       63115        zip        MO    MO  Saint Louis  St. Louis, MO-IL  Saint Louis City         NaN  ...         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN    0.250439
+
+[1 rows x 112 columns]
+File 2:
+      RegionID  SizeRank  RegionName RegionType StateName State         City             Metro        CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31  2023-01-31  2023-02-28  2023-03-31  2023-04-30  2023-05-31  2023-06-30  2023-07-31
+5456     85933      6828       63115        zip        MO    MO  Saint Louis  St. Louis, MO-IL  Saint Louis City         NaN  ...         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN       850.0
+
+[1 rows x 112 columns]
+File 3:
+      RegionID  SizeRank  RegionName RegionType StateName State         City             Metro        CountyName  2000-01-31  ...    2022-10-31   2022-11-30    2022-12-31    2023-01-31    2023-02-28    2023-03-31    2023-04-30    2023-05-31    2023-06-30    2023-07-31
+6748     85933      6828       63115        zip        MO    MO  Saint Louis  St. Louis, MO-IL  Saint Louis City         NaN  ...  32910.132356  33287.06644  33760.768754  36008.009976  38301.676126  40293.106206  40503.466056  40276.150224  40470.445715  40728.411403
+
+[1 rows x 292 columns]
+========================================
+Matching Rows for Zipcode 45402:
+File 1:
+      RegionID  SizeRank  RegionName RegionType StateName State    City                 Metro         CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31  2023-01-31  2023-02-28  2023-03-31  2023-04-30  2023-05-31  2023-06-30  2023-07-31
+6353     77645      9454       45402        zip        OH    OH  Dayton  Dayton-Kettering, OH  Montgomery County         NaN  ...         NaN         NaN         NaN    0.226968    0.231298    0.233318    0.240475    0.247225    0.244077    0.246098
+
+[1 rows x 112 columns]
+File 2:
+      RegionID  SizeRank  RegionName RegionType StateName State    City                 Metro         CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31   2023-01-31   2023-02-28   2023-03-31   2023-04-30   2023-05-31   2023-06-30  2023-07-31
+6355     77645      9454       45402        zip        OH    OH  Dayton  Dayton-Kettering, OH  Montgomery County         NaN  ...         NaN         NaN         NaN  1198.557635  1215.322159  1214.344099  1239.869661  1269.781396  1256.130254      1273.0
+
+[1 rows x 112 columns]
+File 3:
+      RegionID  SizeRank  RegionName RegionType StateName State    City                 Metro         CountyName  2000-01-31  ...   2022-10-31    2022-11-30  2022-12-31    2023-01-31    2023-02-28    2023-03-31    2023-04-30    2023-05-31    2023-06-30    2023-07-31
+9336     77645      9454       45402        zip        OH    OH  Dayton  Dayton-Kettering, OH  Montgomery County         NaN  ...  62825.79749  62582.436035  62935.0464  63368.866276  63052.354158  62456.044798  61871.143013  61633.556425  61757.401046  62072.843599
+
+[1 rows x 292 columns]
+========================================
+Matching Rows for Zipcode 48227:
+File 1:
+      RegionID  SizeRank  RegionName RegionType StateName State     City                        Metro    CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31  2023-01-31  2023-02-28  2023-03-31  2023-04-30  2023-05-31  2023-06-30  2023-07-31
+1848     79082      1980       48227        zip        MI    MI  Detroit  Detroit-Warren-Dearborn, MI  Wayne County         NaN  ...    0.253937    0.264274    0.260605    0.243066    0.236618    0.233591    0.238278    0.235875    0.237724     0.24597
+
+[1 rows x 112 columns]
+File 2:
+      RegionID  SizeRank  RegionName RegionType StateName State     City                        Metro    CountyName  2015-01-31  ...   2022-10-31  2022-11-30   2022-12-31   2023-01-31   2023-02-28   2023-03-31   2023-04-30  2023-05-31   2023-06-30   2023-07-31
+1848     79082      1980       48227        zip        MI    MI  Detroit  Detroit-Warren-Dearborn, MI  Wayne County         NaN  ...  1144.675324  1182.55836  1170.430388  1123.825455  1127.225271  1135.822732  1153.715822  1131.40565  1136.090006  1177.730159
+
+[1 rows x 112 columns]
+File 3:
+      RegionID  SizeRank  RegionName RegionType StateName State     City                        Metro    CountyName   2000-01-31  ...    2022-10-31    2022-11-30    2022-12-31    2023-01-31    2023-02-28    2023-03-31    2023-04-30    2023-05-31    2023-06-30    2023-07-31
+1954     79082      1980       48227        zip        MI    MI  Detroit  Detroit-Warren-Dearborn, MI  Wayne County  9965.181131  ...  54092.644866  53696.860146  53894.413611  55482.390712  57166.872925  58349.352688  58102.649619  57559.553046  57348.342739  57457.340939
+
+[1 rows x 292 columns]
+========================================
+Matching Rows for Zipcode 21216:
+File 1:
+      RegionID  SizeRank  RegionName RegionType StateName State       City                          Metro      CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31  2023-01-31  2023-02-28  2023-03-31  2023-04-30  2023-05-31  2023-06-30  2023-07-31
+4084     66826      4632       21216        zip        MD    MD  Baltimore  Baltimore-Columbia-Towson, MD  Baltimore City         NaN  ...    0.159626    0.156123    0.160534    0.153963    0.151705    0.148269    0.152824    0.154488    0.153313    0.150562
+
+[1 rows x 112 columns]
+File 2:
+      RegionID  SizeRank  RegionName RegionType StateName State       City                          Metro      CountyName  2015-01-31  ...   2022-10-31   2022-11-30   2022-12-31   2023-01-31   2023-02-28   2023-03-31   2023-04-30   2023-05-31   2023-06-30   2023-07-31
+4085     66826      4632       21216        zip        MD    MD  Baltimore  Baltimore-Columbia-Towson, MD  Baltimore City         NaN  ...  1318.985095  1290.765938  1332.220597  1314.154146  1333.014946  1338.249405  1382.929866  1396.893689  1387.422766  1371.507576
+
+[1 rows x 112 columns]
+File 3:
+      RegionID  SizeRank  RegionName RegionType StateName State       City                          Metro      CountyName    2000-01-31  ...    2022-10-31    2022-11-30    2022-12-31    2023-01-31     2023-02-28     2023-03-31     2023-04-30     2023-05-31     2023-06-30    2023-07-31
+4578     66826      4632       21216        zip        MD    MD  Baltimore  Baltimore-Columbia-Towson, MD  Baltimore City  28156.668643  ...  99155.397153  99211.298696  99583.931902  102426.54505  105442.469184  108309.690347  108589.724402  108505.006867  108594.975242  109311.31723
+
+[1 rows x 292 columns]
+========================================
+Matching Rows for Zipcode 48228:
+File 1:
+     RegionID  SizeRank  RegionName RegionType StateName State     City                        Metro    CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31  2023-01-31  2023-02-28  2023-03-31  2023-04-30  2023-05-31  2023-06-30  2023-07-31
+569     79083       598       48228        zip        MI    MI  Detroit  Detroit-Warren-Dearborn, MI  Wayne County         NaN  ...    0.234249    0.243184      0.2441    0.240378    0.231913    0.229005    0.232372    0.236799    0.235096     0.23197
+
+[1 rows x 112 columns]
+File 2:
+     RegionID  SizeRank  RegionName RegionType StateName State     City                        Metro    CountyName  2015-01-31  ...  2022-10-31  2022-11-30   2022-12-31   2023-01-31   2023-02-28   2023-03-31   2023-04-30   2023-05-31   2023-06-30   2023-07-31
+569     79083       598       48228        zip        MI    MI  Detroit  Detroit-Warren-Dearborn, MI  Wayne County         NaN  ...  1049.99413  1075.69545  1074.768821  1071.958462  1052.737884  1056.592411  1077.568304  1101.898096  1097.979055  1090.391026
+
+[1 rows x 112 columns]
+File 3:
+     RegionID  SizeRank  RegionName RegionType StateName State     City                        Metro    CountyName    2000-01-31  ...    2022-10-31    2022-11-30    2022-12-31    2023-01-31    2023-02-28    2023-03-31    2023-04-30    2023-05-31    2023-06-30    2023-07-31
+588     79083       598       48228        zip        MI    MI  Detroit  Detroit-Warren-Dearborn, MI  Wayne County  18478.856501  ...  53788.551213  53080.563924  52835.922628  53513.680719  54472.436418  55366.083587  55647.147915  55839.779196  56044.219314  56406.849747
+
+[1 rows x 292 columns]
+========================================
+Matching Rows for Zipcode 63136:
+File 1:
+      RegionID  SizeRank  RegionName RegionType StateName State City             Metro          CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31  2023-01-31  2023-02-28  2023-03-31  2023-04-30  2023-05-31  2023-06-30  2023-07-31
+1292     85954      1369       63136        zip        MO    MO  NaN  St. Louis, MO-IL  Saint Louis County    0.313537  ...    0.163789    0.160183    0.161418    0.163433    0.166486    0.168115    0.169594    0.171405    0.177328    0.180951
+
+[1 rows x 112 columns]
+File 2:
+      RegionID  SizeRank  RegionName RegionType StateName State City             Metro          CountyName  2015-01-31  ...   2022-10-31   2022-11-30   2022-12-31   2023-01-31   2023-02-28   2023-03-31   2023-04-30   2023-05-31  2023-06-30   2023-07-31
+1292     85954      1369       63136        zip        MO    MO  NaN  St. Louis, MO-IL  Saint Louis County    710.5586  ...  1036.509024  1022.541808  1037.862122  1053.255095  1068.008965  1072.467923  1073.960997  1082.115547  1114.79117  1132.724868
+
+[1 rows x 112 columns]
+File 3:
+      RegionID  SizeRank  RegionName RegionType StateName State City             Metro          CountyName   2000-01-31  ...    2022-10-31    2022-11-30    2022-12-31    2023-01-31    2023-02-28    2023-03-31    2023-04-30    2023-05-31    2023-06-30    2023-07-31
+1350     85954      1369       63136        zip        MO    MO  NaN  St. Louis, MO-IL  Saint Louis County  50423.28893  ...  75939.988851  76603.163868  77156.095717  77335.051292  76980.164697  76552.408651  75990.496364  75758.359592  75439.318915  75118.316281
+
+[1 rows x 292 columns]
+========================================
+Matching Rows for Zipcode 71109:
+File 1:
+      RegionID  SizeRank  RegionName RegionType StateName State        City                        Metro    CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31  2023-01-31  2023-02-28  2023-03-31  2023-04-30  2023-05-31  2023-06-30  2023-07-31
+5311     88915      6558       71109        zip        LA    LA  Shreveport  Shreveport-Bossier City, LA  Caddo Parish         NaN  ...         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN    0.224005    0.230649
+
+[1 rows x 112 columns]
+File 2:
+      RegionID  SizeRank  RegionName RegionType StateName State        City                        Metro    CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31  2023-01-31  2023-02-28  2023-03-31  2023-04-30  2023-05-31  2023-06-30  2023-07-31
+5313     88915      6558       71109        zip        LA    LA  Shreveport  Shreveport-Bossier City, LA  Caddo Parish         NaN  ...         NaN         NaN         NaN         NaN         NaN         NaN         NaN         NaN  654.666128      663.75
+
+[1 rows x 112 columns]
+File 3:
+      RegionID  SizeRank  RegionName RegionType StateName State        City                        Metro    CountyName  2000-01-31  ...    2022-10-31    2022-11-30    2022-12-31    2023-01-31    2023-02-28    2023-03-31    2023-04-30    2023-05-31    2023-06-30    2023-07-31
+6482     88915      6558       71109        zip        LA    LA  Shreveport  Shreveport-Bossier City, LA  Caddo Parish         NaN  ...  32240.160446  32074.599762  31995.942119  33174.512652  34444.399541  35849.864423  36011.030027  35793.049825  35070.679991  34532.928996
+
+[1 rows x 292 columns]
+========================================
+Matching Rows for Zipcode 43607:
+File 1:
+      RegionID  SizeRank  RegionName RegionType StateName State    City       Metro    CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31  2023-01-31  2023-02-28  2023-03-31  2023-04-30  2023-05-31  2023-06-30  2023-07-31
+4987     76766      5978       43607        zip        OH    OH  Toledo  Toledo, OH  Lucas County         NaN  ...    0.208688    0.211412     0.20057    0.213503    0.217436     0.22815    0.226147    0.225724    0.228196    0.223156
+
+[1 rows x 112 columns]
+File 2:
+      RegionID  SizeRank  RegionName RegionType StateName State    City       Metro    CountyName  2015-01-31  ...   2022-10-31   2022-11-30  2022-12-31   2023-01-31   2023-02-28   2023-03-31   2023-04-30   2023-05-31  2023-06-30   2023-07-31
+4989     76766      5978       43607        zip        OH    OH  Toledo  Toledo, OH  Lucas County         NaN  ...  1023.177617  1040.930677  988.926028  1041.568133  1048.244535  1084.152031  1068.700364  1074.845482  1107.12408  1103.333333
+
+[1 rows x 112 columns]
+File 3:
+      RegionID  SizeRank  RegionName RegionType StateName State    City       Metro    CountyName    2000-01-31  ...   2022-10-31    2022-11-30    2022-12-31    2023-01-31    2023-02-28    2023-03-31    2023-04-30    2023-05-31    2023-06-30    2023-07-31
+5907     76766      5978       43607        zip        OH    OH  Toledo  Toledo, OH  Lucas County  24455.579057  ...  58834.86994  59084.391981  59166.897396  58541.671717  57851.236566  57023.197157  56708.314081  57141.277985  58219.703717  59330.672644
+
+[1 rows x 292 columns]
+========================================
+Matching Rows for Zipcode 30901:
+File 1:
+      RegionID  SizeRank  RegionName RegionType StateName State     City                           Metro       CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31  2023-01-31  2023-02-28  2023-03-31  2023-04-30  2023-05-31  2023-06-30  2023-07-31
+5636     71338      7214       30901        zip        GA    GA  Augusta  Augusta-Richmond County, GA-SC  Richmond County         NaN  ...    0.210534    0.200968    0.196271    0.195836    0.197757    0.201951    0.199839     0.20094      0.1997    0.203073
+
+[1 rows x 112 columns]
+File 2:
+      RegionID  SizeRank  RegionName RegionType StateName State     City                           Metro       CountyName  2015-01-31  ...  2022-10-31   2022-11-30   2022-12-31   2023-01-31   2023-02-28   2023-03-31   2023-04-30   2023-05-31   2023-06-30   2023-07-31
+5638     71338      7214       30901        zip        GA    GA  Augusta  Augusta-Richmond County, GA-SC  Richmond County         NaN  ...  1112.42916  1086.991705  1075.522333  1071.583189  1075.942945  1097.777394  1099.143395  1122.110274  1123.639633  1144.444444
+
+[1 rows x 112 columns]
+File 3:
+      RegionID  SizeRank  RegionName RegionType StateName State     City                           Metro       CountyName  2000-01-31  ...    2022-10-31    2022-11-30    2022-12-31    2023-01-31    2023-02-28    2023-03-31    2023-04-30    2023-05-31    2023-06-30    2023-07-31
+7128     71338      7214       30901        zip        GA    GA  Augusta  Augusta-Richmond County, GA-SC  Richmond County         NaN  ...  63406.272415  64905.261581  65757.525263  65661.957023  65288.816123  65230.415337  66001.693886  67011.798536  67519.608629  67627.712274
+
+[1 rows x 292 columns]
+========================================
+Matching Rows for Zipcode 35211:
+File 1:
+      RegionID  SizeRank  RegionName RegionType StateName State        City                  Metro        CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31  2023-01-31  2023-02-28  2023-03-31  2023-04-30  2023-05-31  2023-06-30  2023-07-31
+4411     73381      5111       35211        zip        AL    AL  Birmingham  Birmingham-Hoover, AL  Jefferson County         NaN  ...     0.21029     0.21722      0.2212    0.221864    0.217103    0.215353    0.221418    0.223579    0.219658    0.218954
+
+[1 rows x 112 columns]
+File 2:
+      RegionID  SizeRank  RegionName RegionType StateName State        City                  Metro        CountyName  2015-01-31  ...   2022-10-31   2022-11-30   2022-12-31   2023-01-31  2023-02-28   2023-03-31   2023-04-30   2023-05-31   2023-06-30   2023-07-31
+4413     73381      5111       35211        zip        AL    AL  Birmingham  Birmingham-Hoover, AL  Jefferson County         NaN  ...  1114.636896  1149.032001  1166.024565  1170.822736  1149.44425  1139.913443  1169.721305  1189.468626  1171.500903  1165.766667
+
+[1 rows x 112 columns]
+File 3:
+      RegionID  SizeRank  RegionName RegionType StateName State        City                  Metro        CountyName  2000-01-31  ...    2022-10-31    2022-11-30    2022-12-31    2023-01-31    2023-02-28    2023-03-31    2023-04-30    2023-05-31    2023-06-30    2023-07-31
+5050     73381      5111       35211        zip        AL    AL  Birmingham  Birmingham-Hoover, AL  Jefferson County         NaN  ...  63605.668595  63476.587267  63256.371006  63326.478475  63533.490098  63518.920049  63394.302438  63841.494165  63999.579852  63891.009395
+
+[1 rows x 292 columns]
+========================================
+Matching Rows for Zipcode 43609:
+File 1:
+      RegionID  SizeRank  RegionName RegionType StateName State    City       Metro    CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31  2023-01-31  2023-02-28  2023-03-31  2023-04-30  2023-05-31  2023-06-30  2023-07-31
+4938     76768      5897       43609        zip        OH    OH  Toledo  Toledo, OH  Lucas County         NaN  ...     0.18505    0.187821    0.191561    0.195571         NaN    0.217637    0.222459     0.22372    0.221567    0.221149
+
+[1 rows x 112 columns]
+File 2:
+      RegionID  SizeRank  RegionName RegionType StateName State    City       Metro    CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31  2023-01-31  2023-02-28  2023-03-31   2023-04-30   2023-05-31   2023-06-30   2023-07-31
+4940     76768      5897       43609        zip        OH    OH  Toledo  Toledo, OH  Lucas County         NaN  ...  882.122026  892.584777  907.582324  919.114102         NaN  993.388025  1002.409506  1005.971466  1003.019567  1004.666667
+
+[1 rows x 112 columns]
+File 3:
+      RegionID  SizeRank  RegionName RegionType StateName State    City       Metro    CountyName    2000-01-31  ...    2022-10-31   2022-11-30    2022-12-31    2023-01-31    2023-02-28   2023-03-31    2023-04-30    2023-05-31    2023-06-30    2023-07-31
+5829     76768      5897       43609        zip        OH    OH  Toledo  Toledo, OH  Lucas County  16005.139414  ...  57203.173166  57027.66501  56853.793152  56395.865795  55728.831537  54773.12231  54072.519655  53958.815602  54323.280541  54515.169161
+
+[1 rows x 292 columns]
+========================================
+Matching Rows for Zipcode 11968:
+File 1:
+      RegionID  SizeRank  RegionName RegionType StateName State         City                                  Metro      CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31  2023-01-31  2023-02-28  2023-03-31  2023-04-30  2023-05-31  2023-06-30  2023-07-31
+6369     62314      9517       11968        zip        NY    NY  Southampton  New York-Newark-Jersey City, NY-NJ-PA  Suffolk County         NaN  ...    0.208419    0.216897    0.229982    0.234088    0.234076    0.254578    0.266306    0.272077    0.243156    0.232726
+
+[1 rows x 112 columns]
+File 2:
+      RegionID  SizeRank  RegionName RegionType StateName State         City                                  Metro      CountyName  2015-01-31  ...    2022-10-31    2022-11-30   2022-12-31    2023-01-31    2023-02-28   2023-03-31    2023-04-30    2023-05-31    2023-06-30    2023-07-31
+6371     62314      9517       11968        zip        NY    NY  Southampton  New York-Newark-Jersey City, NY-NJ-PA  Suffolk County         NaN  ...  32468.266752  33654.473064  35600.22905  36183.833474  36106.631665  39330.80169  41202.126647  42202.318305  37844.877994  36306.333333
+
+[1 rows x 112 columns]
+File 3:
+      RegionID  SizeRank  RegionName RegionType StateName State         City                                  Metro      CountyName     2000-01-31  ...    2022-10-31    2022-11-30    2022-12-31    2023-01-31    2023-02-28    2023-03-31    2023-04-30    2023-05-31    2023-06-30    2023-07-31
+9399     62314      9517       11968        zip        NY    NY  Southampton  New York-Newark-Jersey City, NY-NJ-PA  Suffolk County  358739.752265  ...  1.869407e+06  1.861960e+06  1.857552e+06  1.854886e+06  1.851017e+06  1.853926e+06  1.856604e+06  1.861337e+06  1.867685e+06  1.872058e+06
+
+[1 rows x 292 columns]
+========================================
+Matching Rows for Zipcode 8102:
+File 1:
+      RegionID  SizeRank  RegionName RegionType StateName State    City                                        Metro     CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31  2023-01-31  2023-02-28  2023-03-31  2023-04-30  2023-05-31  2023-06-30  2023-07-31
+6529     60990     10428        8102        zip        NJ    NJ  Camden  Philadelphia-Camden-Wilmington, PA-NJ-DE-MD  Camden County         NaN  ...         NaN         NaN         NaN         NaN         NaN         NaN         NaN     0.21783         NaN    0.214315
+
+[1 rows x 112 columns]
+File 2:
+      RegionID  SizeRank  RegionName RegionType StateName State    City                                        Metro     CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31  2023-01-31  2023-02-28  2023-03-31  2023-04-30   2023-05-31  2023-06-30  2023-07-31
+6531     60990     10428        8102        zip        NJ    NJ  Camden  Philadelphia-Camden-Wilmington, PA-NJ-DE-MD  Camden County         NaN  ...         NaN         NaN         NaN         NaN         NaN         NaN         NaN  1811.882031         NaN     1788.75
+
+[1 rows x 112 columns]
+File 3:
+       RegionID  SizeRank  RegionName RegionType StateName State    City                                        Metro     CountyName  2000-01-31  ...    2022-10-31    2022-11-30    2022-12-31    2023-01-31    2023-02-28    2023-03-31    2023-04-30    2023-05-31    2023-06-30     2023-07-31
+10295     60990     10428        8102        zip        NJ    NJ  Camden  Philadelphia-Camden-Wilmington, PA-NJ-DE-MD  Camden County         NaN  ...  94088.126621  93465.558835  92939.445914  94645.189747  97494.443944  99925.802741  99598.050276  99814.514383  99415.657703  100156.128152
+
+[1 rows x 292 columns]
+========================================
+Matching Rows for Zipcode 31903:
+File 1:
+      RegionID  SizeRank  RegionName RegionType StateName State      City            Metro       CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31  2023-01-31  2023-02-28  2023-03-31  2023-04-30  2023-05-31  2023-06-30  2023-07-31
+5318     71715      6573       31903        zip        GA    GA  Columbus  Columbus, GA-AL  Muscogee County         NaN  ...         NaN         NaN         NaN         NaN         NaN         NaN         NaN    0.220622    0.215173    0.203063
+
+[1 rows x 112 columns]
+File 2:
+      RegionID  SizeRank  RegionName RegionType StateName State      City            Metro       CountyName  2015-01-31  ...  2022-10-31  2022-11-30  2022-12-31  2023-01-31  2023-02-28  2023-03-31  2023-04-30   2023-05-31   2023-06-30  2023-07-31
+5320     71715      6573       31903        zip        GA    GA  Columbus  Columbus, GA-AL  Muscogee County         NaN  ...         NaN         NaN         NaN         NaN         NaN         NaN         NaN  1020.985607  1005.673138  949.833333
+
+[1 rows x 112 columns]
+File 3:
+      RegionID  SizeRank  RegionName RegionType StateName State      City            Metro       CountyName  2000-01-31  ...    2022-10-31    2022-11-30    2022-12-31    2023-01-31    2023-02-28    2023-03-31    2023-04-30    2023-05-31    2023-06-30    2023-07-31
+6496     71715      6573       31903        zip        GA    GA  Columbus  Columbus, GA-AL  Muscogee County         NaN  ...  51932.794463  52294.676654  52386.291809  52644.259413  53180.089419  53847.663557  54678.890784  55533.157132  56085.360175  56130.300481
+
+[1 rows x 292 columns]
+========================================
